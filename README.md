@@ -1,5 +1,4 @@
 # test
-# test
 Firstly cd into api directory and run yarn start
 This will start the backend server which handles the api requests from frontend and connects to the mongo db
 
